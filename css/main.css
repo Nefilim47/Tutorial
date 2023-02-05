@@ -1,0 +1,10 @@
+.excerpt {
+    /* Sets the border */
+    border: 2px dashed #2196F3;
+
+    /* Adds an inner padding */
+    padding: 155px;
+
+    /* Sets outer margins */
+    margin: 220px;
+}
